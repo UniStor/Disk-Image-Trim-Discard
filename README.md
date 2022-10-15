@@ -6,4 +6,4 @@ sch:
 guide: https://pve.proxmox.com/wiki/Shrink_Qcow2_Disk_Files
 
 # KVM
-keep: https://chrisirwin.ca/posts/discard-with-kvm-2020/
+keep:, overview: https://chrisirwin.ca/posts/discard-with-kvm-2020/
